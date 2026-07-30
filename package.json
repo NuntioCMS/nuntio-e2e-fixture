@@ -1,0 +1,16 @@
+{
+  "name": "nuntio-e2e-fixture",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Scratch site used by Nuntio's end-to-end tests.",
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@next/mdx": "^15.0.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  }
+}
